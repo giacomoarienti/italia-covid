@@ -1,2 +1,3 @@
-# italia-covid
-Covid-Tracker for Italy
+# Italia Covid
+Covid-Tracker for Italy in ReactJS
+##website: https://giacomoarienti.altervista.org
