@@ -1,0 +1,38 @@
+.mapcontainer {
+  height: 70vh;
+  width: 62%;
+  background-color: white;
+  padding: 1rem;
+  border-radius: 20px;
+  margin-top: 16px;
+  box-shadow: 0 0 8px -4px rgba(0, 0, 0, 0.5);
+}
+  
+.loading {
+  text-align: center;
+}
+
+.infoname {
+  font-size: 20px;
+  font-weight: bold;
+  color: #555;
+  padding: 5px 0;
+}
+
+.infocontainer {
+  width: 150px;
+}
+
+.infoconfirmed,
+.inforecovered,
+.infoincrease,
+.infodeaths {
+  font-size: 15px;
+  margin-top: 1px !important;
+}
+
+@media only screen and (max-width: 770px) {
+  .mapcontainer {
+    width: 90%;
+  }
+}
